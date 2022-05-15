@@ -5,10 +5,10 @@ function Navbar() {
   return (
     <div>
         <nav class="navMenu">
-            <a href="#">About Me</a>
-            <a href="#">Portfolio</a>
-            <a href="#">Connect</a>
-            <a href="#">Contact Me</a>
+            <a href="test">About Me</a>
+            <a href="test">Portfolio</a>
+            <a href="test">Connect</a>
+            <a href="test">Contact Me</a>
         <div class="dot"></div>
         </nav>
     </div>
