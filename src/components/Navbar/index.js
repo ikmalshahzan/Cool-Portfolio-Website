@@ -3,7 +3,7 @@ import './NavbarElements.css'
 
 function Navbar() {
   return (
-    <div>
+    <>
         <nav class="navMenu">
             <a href="test">About Me</a>
             <a href="test">Portfolio</a>
@@ -11,7 +11,7 @@ function Navbar() {
             <a href="test">Contact Me</a>
         <div class="dot"></div>
         </nav>
-    </div>
+    </>
   )
 }
 

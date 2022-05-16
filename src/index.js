@@ -10,6 +10,6 @@ root.render(
   <React.StrictMode>
     <Navbar />
     <Hero />
-    <AboutMe />   
+    <AboutMe />  
   </React.StrictMode>
 );
