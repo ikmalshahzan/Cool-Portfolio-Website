@@ -4,7 +4,7 @@ import './NavbarElements.css'
 function Navbar() {
   return (
     <>
-        <nav class="navMenu">
+        <nav className='navMenu'>
             <a href="test">About Me</a>
             <a href="test">Portfolio</a>
             <a href="test">Connect</a>
